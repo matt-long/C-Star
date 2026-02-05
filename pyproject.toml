@@ -33,7 +33,6 @@ dependencies = [
     "pytimeparse>=1.1.8",
     "pooch>=1.8.1",
     "prefect>=3.6.1",
-    "roms_tools[dask]>=3.4.0,<4",
     "typer>=0.17.5",
 ]
 keywords = ["MCDR", "CDR", "ocean carbon", "climate"]
